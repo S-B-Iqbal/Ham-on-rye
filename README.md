@@ -9,11 +9,11 @@ Identifying spam messages from ham using naive-bayes classification.
 
   <t>
 
-  URL : http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
+     URL : http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
 
-  Source : Gómez JM, Almeida TA, Yamakami A. On the validity of
- 	a new SMS spam collection. Proceedings of the 11th IEEE International
- 	Conference on Machine Learning and Applications. 2012
+     Source : Gómez JM, Almeida TA, Yamakami A. On the validity of
+     a new SMS spam collection. Proceedings of the 11th IEEE International
+ 	  Conference on Machine Learning and Applications. 2012
   </t>
 
 <b>3.	Implementation</b>
@@ -40,6 +40,8 @@ Identifying spam messages from ham using naive-bayes classification.
 <b>  4.	Summary</b>
 
   <t>
-  The use of naïve-bayes classifier is demonstrated for text classification. 
-  The text data was prepared for analysis by using specialized R packages for Text processing and visualization. 
-  Finally, the model was able to classify 98 percent of all the messages correctly as spam and ham.</t>
+  
+     The use of naïve-bayes classifier is demonstrated for text classification. 
+     The text data was prepared for analysis by using specialized R packages for Text processing and visualization. 
+     Finally, the model was able to classify 98 percent of all the messages correctly as spam and ham.
+  </t>
