@@ -1,4 +1,4 @@
-# Ham-on-rye
+# Spam Filter
 Identifying spam messages from ham using naive-bayes classification.
 
 <b>1.	Introduction</b>
